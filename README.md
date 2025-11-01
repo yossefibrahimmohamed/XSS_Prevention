@@ -41,4 +41,4 @@ echo htmlspecialchars($user_input);
   Validate and escape all user-supplied data before rendering in HTML.
 
   Don't forget to follow me :
-  (My Channel Youtube)[https://youtube.com/@yossefibrahim2001]
+  [Youtube](https://youtube.com/@yossefibrahim2001)
